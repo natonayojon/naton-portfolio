@@ -9,6 +9,7 @@ h1 {
 
 .hero {
     display: flex;
+    margin-bottom: 150px;
 
 }
 
@@ -42,4 +43,10 @@ h1 {
 .half-width img {
     width: 85%;
     padding-left: 40px;
+}
+
+.s-b {
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
